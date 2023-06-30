@@ -1,0 +1,1 @@
+This folder will contain all the array problems we have solved so far, and we will make an effort to commit those problems.
